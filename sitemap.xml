@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://regalweiseconsulting.in/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://regalweiseconsulting.in/regalweise-promo.html</loc>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>https://regalweiseconsulting.in/</loc><priority>1.0</priority></url>
+  <url><loc>https://regalweiseconsulting.in/consulting/</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/regalweise-promo.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/stablecoins-banks-position.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/stablecoin-regulation-compared.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/tokenized-deposits-vs-stablecoins.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/servicenow-agentic-ai-enterprise.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/servicenow-ai-agents-banking-use-cases.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/dlt-capital-markets-production.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/tokenized-real-world-assets.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/cbdc-india-digital-rupee.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/digital-asset-custody-institutions.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/aml-digital-assets-travel-rule.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/bian-first-architecture.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/iso-20022-deadline.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/agentic-ai-banking-scale.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/ifrs9-audit-readiness.html</loc><priority>0.8</priority></url>
+  <url><loc>https://regalweiseconsulting.in/blog/next-gen-kyc-ai-onboarding.html</loc><priority>0.8</priority></url>
 </urlset>
